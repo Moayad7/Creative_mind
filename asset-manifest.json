@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Creative_mind/static/css/main.073c9b0a.css",
-    "main.js": "/Creative_mind/static/js/main.cff82094.js",
-    "static/js/787.229ea2bd.chunk.js": "/Creative_mind/static/js/787.229ea2bd.chunk.js",
+    "main.css": "/Creative_mind/static/css/main.421e6b95.css",
+    "main.js": "/Creative_mind/static/js/main.16e8b52e.js",
+    "static/media/creative-bg-01.png": "/Creative_mind/static/media/creative-bg-01.85ddad98a2fc697923ff.png",
+    "static/media/creative-bg2-01.png": "/Creative_mind/static/media/creative-bg2-01.796be51ffb09d9f2ee55.png",
+    "static/media/FrutigerLTArabic55Roman.ttf": "/Creative_mind/static/media/FrutigerLTArabic55Roman.7b95d9859761a1dc918a.ttf",
+    "static/media/logo-white.png": "/Creative_mind/static/media/logo-white.b2708d9725de1e937f69.png",
     "index.html": "/Creative_mind/index.html",
-    "main.073c9b0a.css.map": "/Creative_mind/static/css/main.073c9b0a.css.map",
-    "main.cff82094.js.map": "/Creative_mind/static/js/main.cff82094.js.map",
-    "787.229ea2bd.chunk.js.map": "/Creative_mind/static/js/787.229ea2bd.chunk.js.map"
+    "main.421e6b95.css.map": "/Creative_mind/static/css/main.421e6b95.css.map",
+    "main.16e8b52e.js.map": "/Creative_mind/static/js/main.16e8b52e.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cff82094.js"
+    "static/css/main.421e6b95.css",
+    "static/js/main.16e8b52e.js"
   ]
 }
