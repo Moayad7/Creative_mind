@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/Creative_mind/static/css/main.c359ccee.css",
-    "main.js": "/Creative_mind/static/js/main.104c7ae4.js",
+    "main.css": "/Creative_mind/static/css/main.81f2b752.css",
+    "main.js": "/Creative_mind/static/js/main.e042eb6e.js",
     "static/media/logo-3d-03.png": "/Creative_mind/static/media/logo-3d-03.e06262608ce1120db389.png",
     "static/media/creative-bg-01.png": "/Creative_mind/static/media/creative-bg-01.85ddad98a2fc697923ff.png",
     "static/media/creative-bg2-01.png": "/Creative_mind/static/media/creative-bg2-01.796be51ffb09d9f2ee55.png",
     "static/media/FrutigerLTArabic55Roman.ttf": "/Creative_mind/static/media/FrutigerLTArabic55Roman.7b95d9859761a1dc918a.ttf",
     "static/media/logo-white.png": "/Creative_mind/static/media/logo-white.b2708d9725de1e937f69.png",
+    "static/media/instagram-01.svg": "/Creative_mind/static/media/instagram-01.da0dd21dbaec97a69e8bdb350daa022f.svg",
+    "static/media/linkedin-01.svg": "/Creative_mind/static/media/linkedin-01.adb8a14b3fceab0b3d69d36d315ea972.svg",
     "index.html": "/Creative_mind/index.html",
-    "main.c359ccee.css.map": "/Creative_mind/static/css/main.c359ccee.css.map",
-    "main.104c7ae4.js.map": "/Creative_mind/static/js/main.104c7ae4.js.map"
+    "static/media/youtube-01.svg": "/Creative_mind/static/media/youtube-01.3f9f5a50b504732bddc098f1e5e72208.svg",
+    "static/media/facebook-01.svg": "/Creative_mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
+    "main.81f2b752.css.map": "/Creative_mind/static/css/main.81f2b752.css.map",
+    "main.e042eb6e.js.map": "/Creative_mind/static/js/main.e042eb6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c359ccee.css",
-    "static/js/main.104c7ae4.js"
+    "static/css/main.81f2b752.css",
+    "static/js/main.e042eb6e.js"
   ]
 }
