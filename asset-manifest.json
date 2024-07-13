@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Creative_mind/static/css/main.7f87b93c.css",
-    "main.js": "/Creative_mind/static/js/main.74005570.js",
+    "main.css": "/Creative_mind/static/css/main.c359ccee.css",
+    "main.js": "/Creative_mind/static/js/main.104c7ae4.js",
     "static/media/logo-3d-03.png": "/Creative_mind/static/media/logo-3d-03.e06262608ce1120db389.png",
     "static/media/creative-bg-01.png": "/Creative_mind/static/media/creative-bg-01.85ddad98a2fc697923ff.png",
     "static/media/creative-bg2-01.png": "/Creative_mind/static/media/creative-bg2-01.796be51ffb09d9f2ee55.png",
     "static/media/FrutigerLTArabic55Roman.ttf": "/Creative_mind/static/media/FrutigerLTArabic55Roman.7b95d9859761a1dc918a.ttf",
     "static/media/logo-white.png": "/Creative_mind/static/media/logo-white.b2708d9725de1e937f69.png",
     "index.html": "/Creative_mind/index.html",
-    "main.7f87b93c.css.map": "/Creative_mind/static/css/main.7f87b93c.css.map",
-    "main.74005570.js.map": "/Creative_mind/static/js/main.74005570.js.map"
+    "main.c359ccee.css.map": "/Creative_mind/static/css/main.c359ccee.css.map",
+    "main.104c7ae4.js.map": "/Creative_mind/static/js/main.104c7ae4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f87b93c.css",
-    "static/js/main.74005570.js"
+    "static/css/main.c359ccee.css",
+    "static/js/main.104c7ae4.js"
   ]
 }
