@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Creative_mind/static/css/main.aea15691.css",
-    "main.js": "/Creative_mind/static/js/main.f724dc11.js",
+    "main.css": "/Creative_mind/static/css/main.9cadc211.css",
+    "main.js": "/Creative_mind/static/js/main.8163cf7c.js",
     "static/media/logo-3d-03.png": "/Creative_mind/static/media/logo-3d-03.e06262608ce1120db389.png",
     "static/media/creative-bg-01.png": "/Creative_mind/static/media/creative-bg-01.85ddad98a2fc697923ff.png",
     "static/media/creative-bg2-01.png": "/Creative_mind/static/media/creative-bg2-01.796be51ffb09d9f2ee55.png",
@@ -12,11 +12,11 @@
     "index.html": "/Creative_mind/index.html",
     "static/media/youtube-01.svg": "/Creative_mind/static/media/youtube-01.3f9f5a50b504732bddc098f1e5e72208.svg",
     "static/media/facebook-01.svg": "/Creative_mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
-    "main.aea15691.css.map": "/Creative_mind/static/css/main.aea15691.css.map",
-    "main.f724dc11.js.map": "/Creative_mind/static/js/main.f724dc11.js.map"
+    "main.9cadc211.css.map": "/Creative_mind/static/css/main.9cadc211.css.map",
+    "main.8163cf7c.js.map": "/Creative_mind/static/js/main.8163cf7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.aea15691.css",
-    "static/js/main.f724dc11.js"
+    "static/css/main.9cadc211.css",
+    "static/js/main.8163cf7c.js"
   ]
 }
