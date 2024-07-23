@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Creative_mind/static/css/main.f7748893.css",
-    "main.js": "/Creative_mind/static/js/main.0808908e.js",
+    "main.css": "/Creative_mind/static/css/main.f32ada9f.css",
+    "main.js": "/Creative_mind/static/js/main.b828eb20.js",
     "static/media/8.mp4": "/Creative_mind/static/media/8.696b367b0c5582d51cf0.mp4",
     "static/media/logo-3d-03.png": "/Creative_mind/static/media/logo-3d-03.e06262608ce1120db389.png",
+    "static/media/card_bg-02.png": "/Creative_mind/static/media/card_bg-02.bcb5eb9a6bc7c5dd5518.png",
     "static/media/card_creative-01.png": "/Creative_mind/static/media/card_creative-01.492b933ad89eca01e957.png",
     "static/media/nav_creative-01.png": "/Creative_mind/static/media/nav_creative-01.edf0a4419d31fd133e78.png",
     "static/media/creative-bg-01.png": "/Creative_mind/static/media/creative-bg-01.85ddad98a2fc697923ff.png",
@@ -15,11 +16,11 @@
     "index.html": "/Creative_mind/index.html",
     "static/media/youtube-01.svg": "/Creative_mind/static/media/youtube-01.3f9f5a50b504732bddc098f1e5e72208.svg",
     "static/media/facebook-01.svg": "/Creative_mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
-    "main.f7748893.css.map": "/Creative_mind/static/css/main.f7748893.css.map",
-    "main.0808908e.js.map": "/Creative_mind/static/js/main.0808908e.js.map"
+    "main.f32ada9f.css.map": "/Creative_mind/static/css/main.f32ada9f.css.map",
+    "main.b828eb20.js.map": "/Creative_mind/static/js/main.b828eb20.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7748893.css",
-    "static/js/main.0808908e.js"
+    "static/css/main.f32ada9f.css",
+    "static/js/main.b828eb20.js"
   ]
 }
